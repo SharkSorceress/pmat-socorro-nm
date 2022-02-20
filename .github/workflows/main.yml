@@ -18,7 +18,7 @@ jobs:
       uses: actions/upload-artifact@master
       with:
         name: workspace_artifacts_figs
-        path: ${{github.workspace}}/figs
+        path: ${{github.workspace}}/out
     - name: Upload data artifacts
       uses: actions/upload-artifact@master
       with:
