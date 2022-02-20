@@ -1,3 +1,3 @@
-# Deployment of PMAT for [City Name], [ST]
+# Deployment of PMAT for Socorro, New Mexico
 
-### Managed by [Your Username](https://github.com/YourUsername)
+### Managed by [PharaohCola13](https://github.com/PharaohCola13)
