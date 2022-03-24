@@ -1,0 +1,243 @@
+2022-03-24 23:04:58 ALOHA Precipitable-water Model Analysis Tool
+2022-03-24 23:04:58 ALOHA Program Start
+2022-03-24 23:04:59 INFO Collecting Data from sources
+2022-03-24 23:04:59 DEBUG Collecting data for 2021-10-06		 Progress: 90.22%
+2022-03-24 23:05:04 DEBUG Collecting data for 2021-10-07		 Progress: 90.31%
+2022-03-24 23:05:09 DEBUG Collecting data for 2021-10-08		 Progress: 90.40%
+2022-03-24 23:05:12 WARN Connection issue with Wyoming Upper-Air...
+2022-03-24 23:05:23 WARN Connection issue with Wyoming Upper-Air...
+2022-03-24 23:05:24 WARN Connection issue with Wyoming Upper-Air...
+2022-03-24 23:05:36 DEBUG Collecting data for 2021-10-09		 Progress: 90.49%
+2022-03-24 23:05:40 DEBUG Collecting data for 2021-10-10		 Progress: 90.59%
+2022-03-24 23:05:46 DEBUG Collecting data for 2021-10-11		 Progress: 90.68%
+2022-03-24 23:05:52 DEBUG Collecting data for 2021-10-12		 Progress: 90.77%
+2022-03-24 23:05:56 WARN Data not avialable for 2021-10-13 00:00:00 at ABQ
+2022-03-24 23:05:58 DEBUG Collecting data for 2021-10-13		 Progress: 90.86%
+2022-03-24 23:06:03 DEBUG Collecting data for 2021-10-14		 Progress: 90.95%
+2022-03-24 23:06:07 DEBUG Collecting data for 2021-10-15		 Progress: 91.04%
+2022-03-24 23:06:12 DEBUG Collecting data for 2021-10-16		 Progress: 91.13%
+2022-03-24 23:06:16 DEBUG Collecting data for 2021-10-17		 Progress: 91.22%
+2022-03-24 23:06:20 DEBUG Collecting data for 2021-10-18		 Progress: 91.32%
+2022-03-24 23:06:24 DEBUG Collecting data for 2021-10-19		 Progress: 91.41%
+2022-03-24 23:06:29 DEBUG Collecting data for 2021-10-20		 Progress: 91.50%
+2022-03-24 23:06:32 DEBUG Collecting data for 2021-10-21		 Progress: 91.59%
+2022-03-24 23:06:37 DEBUG Collecting data for 2021-10-22		 Progress: 91.68%
+2022-03-24 23:06:40 DEBUG Collecting data for 2021-10-23		 Progress: 91.77%
+2022-03-24 23:06:44 DEBUG Collecting data for 2021-10-24		 Progress: 91.86%
+2022-03-24 23:06:48 DEBUG Collecting data for 2021-10-25		 Progress: 91.96%
+2022-03-24 23:06:51 DEBUG Collecting data for 2021-10-26		 Progress: 92.05%
+2022-03-24 23:06:57 DEBUG Collecting data for 2021-10-27		 Progress: 92.14%
+2022-03-24 23:07:01 DEBUG Collecting data for 2021-10-28		 Progress: 92.23%
+2022-03-24 23:07:05 DEBUG Collecting data for 2021-10-29		 Progress: 92.32%
+2022-03-24 23:07:09 DEBUG Collecting data for 2021-10-30		 Progress: 92.41%
+2022-03-24 23:07:13 DEBUG Collecting data for 2021-10-31		 Progress: 92.50%
+2022-03-24 23:07:18 DEBUG Collecting data for 2021-11-01		 Progress: 92.60%
+2022-03-24 23:07:22 DEBUG Collecting data for 2021-11-02		 Progress: 92.69%
+2022-03-24 23:07:26 DEBUG Collecting data for 2021-11-03		 Progress: 92.78%
+2022-03-24 23:07:31 DEBUG Collecting data for 2021-11-04		 Progress: 92.87%
+2022-03-24 23:07:35 DEBUG Collecting data for 2021-11-05		 Progress: 92.96%
+2022-03-24 23:07:39 DEBUG Collecting data for 2021-11-06		 Progress: 93.05%
+2022-03-24 23:07:43 DEBUG Collecting data for 2021-11-07		 Progress: 93.14%
+2022-03-24 23:07:47 DEBUG Collecting data for 2021-11-08		 Progress: 93.24%
+2022-03-24 23:07:51 DEBUG Collecting data for 2021-11-09		 Progress: 93.33%
+2022-03-24 23:07:56 DEBUG Collecting data for 2021-11-10		 Progress: 93.42%
+2022-03-24 23:08:00 DEBUG Collecting data for 2021-11-11		 Progress: 93.51%
+2022-03-24 23:08:07 DEBUG Collecting data for 2021-11-12		 Progress: 93.60%
+2022-03-24 23:08:12 DEBUG Collecting data for 2021-11-13		 Progress: 93.69%
+2022-03-24 23:08:16 DEBUG Collecting data for 2021-11-14		 Progress: 93.78%
+2022-03-24 23:08:20 DEBUG Collecting data for 2021-11-15		 Progress: 93.88%
+2022-03-24 23:08:25 DEBUG Collecting data for 2021-11-16		 Progress: 93.97%
+2022-03-24 23:08:28 DEBUG Collecting data for 2021-11-17		 Progress: 94.06%
+2022-03-24 23:08:32 DEBUG Collecting data for 2021-11-18		 Progress: 94.15%
+2022-03-24 23:08:36 DEBUG Collecting data for 2021-11-19		 Progress: 94.24%
+2022-03-24 23:08:41 DEBUG Collecting data for 2021-11-20		 Progress: 94.33%
+2022-03-24 23:08:45 DEBUG Collecting data for 2021-11-21		 Progress: 94.42%
+2022-03-24 23:08:49 DEBUG Collecting data for 2021-11-22		 Progress: 94.52%
+2022-03-24 23:08:54 DEBUG Collecting data for 2021-11-23		 Progress: 94.61%
+2022-03-24 23:08:59 DEBUG Collecting data for 2021-11-24		 Progress: 94.70%
+2022-03-24 23:09:04 DEBUG Collecting data for 2021-11-25		 Progress: 94.79%
+2022-03-24 23:09:08 DEBUG Collecting data for 2021-11-26		 Progress: 94.88%
+2022-03-24 23:09:12 DEBUG Collecting data for 2021-11-27		 Progress: 94.97%
+2022-03-24 23:09:17 DEBUG Collecting data for 2021-11-28		 Progress: 95.06%
+2022-03-24 23:09:21 DEBUG Collecting data for 2021-11-29		 Progress: 95.16%
+2022-03-24 23:09:25 DEBUG Collecting data for 2021-11-30		 Progress: 95.25%
+2022-03-24 23:09:29 DEBUG Collecting data for 2021-12-01		 Progress: 95.34%
+2022-03-24 23:09:33 DEBUG Collecting data for 2021-12-02		 Progress: 95.43%
+2022-03-24 23:09:40 DEBUG Collecting data for 2021-12-03		 Progress: 95.52%
+2022-03-24 23:09:45 DEBUG Collecting data for 2021-12-04		 Progress: 95.61%
+2022-03-24 23:09:50 DEBUG Collecting data for 2021-12-05		 Progress: 95.70%
+2022-03-24 23:09:52 WARN Connection issue with Wyoming Upper-Air...
+2022-03-24 23:10:06 DEBUG Collecting data for 2021-12-06		 Progress: 95.80%
+2022-03-24 23:10:10 DEBUG Collecting data for 2021-12-07		 Progress: 95.89%
+2022-03-24 23:10:12 WARN Connection issue with Wyoming Upper-Air...
+2022-03-24 23:10:25 DEBUG Collecting data for 2021-12-08		 Progress: 95.98%
+2022-03-24 23:10:29 DEBUG Collecting data for 2021-12-09		 Progress: 96.07%
+2022-03-24 23:10:33 DEBUG Collecting data for 2021-12-10		 Progress: 96.16%
+2022-03-24 23:10:39 DEBUG Collecting data for 2021-12-11		 Progress: 96.25%
+2022-03-24 23:10:43 DEBUG Collecting data for 2021-12-12		 Progress: 96.34%
+2022-03-24 23:10:48 DEBUG Collecting data for 2021-12-13		 Progress: 96.44%
+2022-03-24 23:10:53 DEBUG Collecting data for 2021-12-14		 Progress: 96.53%
+2022-03-24 23:10:58 DEBUG Collecting data for 2021-12-15		 Progress: 96.62%
+2022-03-24 23:11:03 DEBUG Collecting data for 2021-12-16		 Progress: 96.71%
+2022-03-24 23:11:04 WARN Data not avialable for 2021-12-16 12:00:00 at ABQ
+2022-03-24 23:11:05 WARN Data not avialable for 2021-12-17 00:00:00 at ABQ
+2022-03-24 23:11:09 DEBUG Collecting data for 2021-12-17		 Progress: 96.80%
+2022-03-24 23:11:10 WARN Data not avialable for 2021-12-17 12:00:00 at ABQ
+2022-03-24 23:11:14 DEBUG Collecting data for 2021-12-18		 Progress: 96.89%
+2022-03-24 23:11:17 WARN Connection issue with Wyoming Upper-Air...
+2022-03-24 23:11:31 DEBUG Collecting data for 2021-12-19		 Progress: 96.98%
+2022-03-24 23:11:35 DEBUG Collecting data for 2021-12-20		 Progress: 97.07%
+2022-03-24 23:11:39 DEBUG Collecting data for 2021-12-21		 Progress: 97.17%
+2022-03-24 23:11:43 DEBUG Collecting data for 2021-12-22		 Progress: 97.26%
+2022-03-24 23:11:47 DEBUG Collecting data for 2021-12-23		 Progress: 97.35%
+2022-03-24 23:11:51 DEBUG Collecting data for 2021-12-24		 Progress: 97.44%
+2022-03-24 23:11:55 DEBUG Collecting data for 2021-12-25		 Progress: 97.53%
+2022-03-24 23:12:00 DEBUG Collecting data for 2021-12-26		 Progress: 97.62%
+2022-03-24 23:12:03 DEBUG Collecting data for 2021-12-27		 Progress: 97.71%
+2022-03-24 23:12:08 DEBUG Collecting data for 2021-12-28		 Progress: 97.81%
+2022-03-24 23:12:12 DEBUG Collecting data for 2021-12-29		 Progress: 97.90%
+2022-03-24 23:12:16 DEBUG Collecting data for 2021-12-30		 Progress: 97.99%
+2022-03-24 23:12:21 DEBUG Collecting data for 2021-12-31		 Progress: 98.08%
+2022-03-24 23:12:24 DEBUG Collecting data for 2022-01-01		 Progress: 98.17%
+2022-03-24 23:12:29 DEBUG Collecting data for 2022-01-02		 Progress: 98.26%
+2022-03-24 23:12:33 DEBUG Collecting data for 2022-01-03		 Progress: 98.35%
+2022-03-24 23:12:37 DEBUG Collecting data for 2022-01-04		 Progress: 98.45%
+2022-03-24 23:12:41 DEBUG Collecting data for 2022-01-05		 Progress: 98.54%
+2022-03-24 23:12:44 DEBUG Collecting data for 2022-01-06		 Progress: 98.63%
+2022-03-24 23:12:49 DEBUG Collecting data for 2022-01-07		 Progress: 98.72%
+2022-03-24 23:12:54 DEBUG Collecting data for 2022-01-08		 Progress: 98.81%
+2022-03-24 23:12:58 DEBUG Collecting data for 2022-01-09		 Progress: 98.90%
+2022-03-24 23:13:02 DEBUG Collecting data for 2022-01-10		 Progress: 98.99%
+2022-03-24 23:13:05 DEBUG Collecting data for 2022-01-11		 Progress: 99.09%
+2022-03-24 23:13:10 DEBUG Collecting data for 2022-01-12		 Progress: 99.18%
+2022-03-24 23:13:14 DEBUG Collecting data for 2022-01-13		 Progress: 99.27%
+2022-03-24 23:13:18 DEBUG Collecting data for 2022-01-14		 Progress: 99.36%
+2022-03-24 23:13:22 DEBUG Collecting data for 2022-01-15		 Progress: 99.45%
+2022-03-24 23:13:26 DEBUG Collecting data for 2022-01-16		 Progress: 99.54%
+2022-03-24 23:13:30 DEBUG Collecting data for 2022-01-17		 Progress: 99.63%
+2022-03-24 23:13:34 DEBUG Collecting data for 2022-01-18		 Progress: 99.73%
+2022-03-24 23:13:39 DEBUG Collecting data for 2022-01-19		 Progress: 99.82%
+2022-03-24 23:13:43 DEBUG Collecting data for 2022-01-20		 Progress: 99.91%
+2022-03-24 23:13:50 DEBUG Step 1 out of 10
+2022-03-24 23:13:50 DEBUG Step 2 out of 10
+2022-03-24 23:13:50 DEBUG Step 3 out of 10
+2022-03-24 23:13:50 DEBUG Step 4 out of 10
+2022-03-24 23:13:50 DEBUG Step 5 out of 10
+2022-03-24 23:13:50 DEBUG Step 6 out of 10
+2022-03-24 23:13:50 DEBUG Step 7 out of 10
+2022-03-24 23:13:50 DEBUG Step 8 out of 10
+2022-03-24 23:13:50 DEBUG Step 9 out of 10
+2022-03-24 23:13:50 DEBUG Step 10 out of 10
+2022-03-24 23:13:50 INFO Condition: Clear Sky
+2022-03-24 23:13:50 INFO Time Series Plot Set
+2022-03-24 23:13:50 PASS Sky Temperature Time Series
+2022-03-24 23:13:50 PASS Ground Temperature Time Series
+2022-03-24 23:13:50 PASS Difference Between Ground-Sky Temperature Time Series
+2022-03-24 23:13:50 PASS Total Precipitable Water Time Series
+2022-03-24 23:13:50 PASS Temporal Mean Precipitable Water Time Series
+2022-03-24 23:13:50 PASS Locational Mean Precipitable Water Time Series
+2022-03-24 23:13:50 PASS Mean Total Precipitable Water Time Series
+2022-03-24 23:13:50 PASS Dewpoint Temperature Time Series
+2022-03-24 23:13:51 PASS Mean Sky Temperature and PWV Time Series
+2022-03-24 23:13:51 PASS Mean Sky Temperature and RH Time Series
+2022-03-24 23:13:51 PASS Mean TPW and RH Time Series
+2022-03-24 23:13:51 PASS Normalized Index for Weighted PWV Time Series
+2022-03-24 23:13:51 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:13:51 INFO Analytics Plot Set
+2022-03-24 23:13:51 PASS Correlation between TPW and Temperature
+2022-03-24 23:13:51 PASS Correlation between Locational Mean TPW and Temperature
+2022-03-24 23:13:51 PASS Correlation between Temporal Mean TPW and Temperature
+2022-03-24 23:13:51 PASS Regression between Mean TPW and Temperature
+2022-03-24 23:13:51 PASS Regression between Weighted TPW and Temperature
+2022-03-24 23:13:51 PASS SVM Analysis between Sky Temperature and TPW
+2022-03-24 23:13:51 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:13:51 INFO Sensor Plot Set
+2022-03-24 23:13:51 PASS Overcast Condition Percentage: FLIR i3
+2022-03-24 23:13:52 PASS Overcast Condition Percentage: AMES 1
+2022-03-24 23:13:52 PASS Overcast Condition Percentage: AMES 2
+2022-03-24 23:13:52 PASS Overcast Condition Percentage: AMES 3
+2022-03-24 23:13:52 PASS Sky-Ground Time Series: FLIR i3
+2022-03-24 23:13:52 PASS Sky-Ground Time Series: AMES
+2022-03-24 23:13:52 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:13:52 INFO Chart Set
+2022-03-24 23:13:52 PASS Weighted PWV
+2022-03-24 23:13:52 PASS Average Temperature
+2022-03-24 23:13:52 PASS Relative Humidity
+2022-03-24 23:13:52 PASS Dewpoint Temperature
+2022-03-24 23:13:52 PASS Distribution of PWV in ABQ
+2022-03-24 23:13:52 PASS Distribution of PWV in EPZ
+2022-03-24 23:13:52 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:13:52 INFO Poster Plot Set
+2022-03-24 23:13:52 PASS Sky-Ground-Delta Temperature Time Series
+2022-03-24 23:13:52 PASS Analytical Plots
+2022-03-24 23:13:52 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:13:52 INFO Pac-Man Plot Set
+2022-03-24 23:13:52 PASS Correlation between Mean TPW and Temperature
+2022-03-24 23:13:53 PASS Pac-Man Residual of the Mean TPW and Temperature Model
+2022-03-24 23:13:53 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:13:53 PASS Data sent to data/data.csv
+2022-03-24 23:13:53 PASS Data sent to ../data/../out/data/ml_data.csv
+2022-03-24 23:13:53 ALOHA Program Complete
+2022-03-24 23:13:56 ALOHA Precipitable-water Model Analysis Tool
+2022-03-24 23:13:56 ALOHA Program Start
+2022-03-24 23:13:58 INFO Collecting Data from sources
+2022-03-24 23:14:00 DEBUG Step 1 out of 10
+2022-03-24 23:14:00 DEBUG Step 2 out of 10
+2022-03-24 23:14:00 DEBUG Step 3 out of 10
+2022-03-24 23:14:00 DEBUG Step 4 out of 10
+2022-03-24 23:14:00 DEBUG Step 5 out of 10
+2022-03-24 23:14:00 DEBUG Step 6 out of 10
+2022-03-24 23:14:00 DEBUG Step 7 out of 10
+2022-03-24 23:14:00 DEBUG Step 8 out of 10
+2022-03-24 23:14:00 DEBUG Step 9 out of 10
+2022-03-24 23:14:00 DEBUG Step 10 out of 10
+2022-03-24 23:14:00 INFO Condition: Overcast
+2022-03-24 23:14:00 INFO Time Series Plot Set
+2022-03-24 23:14:00 PASS Sky Temperature Time Series
+2022-03-24 23:14:00 PASS Ground Temperature Time Series
+2022-03-24 23:14:00 PASS Difference Between Ground-Sky Temperature Time Series
+2022-03-24 23:14:00 PASS Total Precipitable Water Time Series
+2022-03-24 23:14:00 PASS Temporal Mean Precipitable Water Time Series
+2022-03-24 23:14:00 PASS Locational Mean Precipitable Water Time Series
+2022-03-24 23:14:01 PASS Mean Total Precipitable Water Time Series
+2022-03-24 23:14:01 PASS Dewpoint Temperature Time Series
+2022-03-24 23:14:01 PASS Mean Sky Temperature and PWV Time Series
+2022-03-24 23:14:01 PASS Mean Sky Temperature and RH Time Series
+2022-03-24 23:14:01 PASS Mean TPW and RH Time Series
+2022-03-24 23:14:01 PASS Normalized Index for Weighted PWV Time Series
+2022-03-24 23:14:01 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:14:01 INFO Analytics Plot Set
+2022-03-24 23:14:01 PASS Correlation between TPW and Temperature
+2022-03-24 23:14:01 PASS Correlation between Locational Mean TPW and Temperature
+2022-03-24 23:14:01 PASS Correlation between Temporal Mean TPW and Temperature
+2022-03-24 23:14:01 PASS Regression between Mean TPW and Temperature
+2022-03-24 23:14:01 PASS Regression between Weighted TPW and Temperature
+2022-03-24 23:14:01 PASS SVM Analysis between Sky Temperature and TPW
+2022-03-24 23:14:01 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:14:01 INFO Sensor Plot Set
+2022-03-24 23:14:01 PASS Overcast Condition Percentage: FLIR i3
+2022-03-24 23:14:01 PASS Overcast Condition Percentage: AMES 1
+2022-03-24 23:14:01 PASS Overcast Condition Percentage: AMES 2
+2022-03-24 23:14:01 PASS Overcast Condition Percentage: AMES 3
+2022-03-24 23:14:02 PASS Sky-Ground Time Series: FLIR i3
+2022-03-24 23:14:02 PASS Sky-Ground Time Series: AMES
+2022-03-24 23:14:02 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:14:02 INFO Chart Set
+2022-03-24 23:14:02 PASS Weighted PWV
+2022-03-24 23:14:02 PASS Average Temperature
+2022-03-24 23:14:02 PASS Relative Humidity
+2022-03-24 23:14:02 PASS Dewpoint Temperature
+2022-03-24 23:14:02 PASS Distribution of PWV in ABQ
+2022-03-24 23:14:02 PASS Distribution of PWV in EPZ
+2022-03-24 23:14:02 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:14:02 INFO Poster Plot Set
+2022-03-24 23:14:02 PASS Sky-Ground-Delta Temperature Time Series
+2022-03-24 23:14:02 PASS Analytical Plots
+2022-03-24 23:14:02 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:14:02 INFO Pac-Man Plot Set
+2022-03-24 23:14:02 PASS Correlation between Mean TPW and Temperature
+2022-03-24 23:14:02 PASS Pac-Man Residual of the Mean TPW and Temperature Model
+2022-03-24 23:14:02 PASS Plot set downloaded to ../data/../out/figs/
+2022-03-24 23:14:02 PASS Data sent to data/data_overcast.csv
+2022-03-24 23:14:03 PASS Data sent to ../data/../out/data/ml_data.csv
+2022-03-24 23:14:03 ALOHA Program Complete
