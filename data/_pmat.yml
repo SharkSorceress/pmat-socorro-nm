@@ -16,7 +16,7 @@
       range: null
       emissivity: 0.95
       poster: true
-      active: true
+      active: false
   - sensor:
       name: AMES_1
       error: 7
@@ -48,7 +48,7 @@
   - train_fraction: 0.8
   - rel_difference: 2
   - iteration:
-      step: 10
+      step: 5000
       seed:
 - logging:
   - verbose: DEBUG
