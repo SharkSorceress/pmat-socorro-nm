@@ -1,0 +1,21 @@
+name: Sync Results
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    needs: docs
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Master Branch
+      uses: actions/checkout@master
+      with:
+        ref: main
+    - name: Run GitHub File Sync
+      uses: kbrashears5/github-action-file-sync@master
+      with:
+        REPOSITORIES: |
+          physicsgoddess1972/Precipitable-Water-Model@docs
+        FILES: |
+          out/_results.yaml=docs/_data/_socorro-nm-results.yml
+        TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
