@@ -3,8 +3,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
-    needs: docs
+  sync:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout Master Branch
