@@ -10,11 +10,14 @@ jobs:
       uses: actions/checkout@master
       with:
         ref: main
+    - name: Append Site field
+      run: |
+       echo 'site: "socorro-nm"' >> out/_results.yml
     - name: Run GitHub File Sync
       uses: kbrashears5/github-action-file-sync@master
       with:
         REPOSITORIES: |
           physicsgoddess1972/Precipitable-Water-Model@docs
         FILES: |
-          out/_results.yml=docs/_data/_socorro-nm-results.yml
+          out/_results.yml=docs/_data/results/socorro-nm.yml
         TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
