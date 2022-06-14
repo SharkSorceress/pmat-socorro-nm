@@ -16,5 +16,5 @@ jobs:
         REPOSITORIES: |
           physicsgoddess1972/Precipitable-Water-Model@docs
         FILES: |
-          out/_results.yaml=docs/_data/_socorro-nm-results.yml
+          out/_results.yml=docs/_data/_socorro-nm-results.yml
         TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
