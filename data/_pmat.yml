@@ -53,7 +53,7 @@
 - logging:
   - verbose: DEBUG
 - style: 
-  - pw_label: PWAT
+  - pw.label: PWAT
 - import:
   - mesowest:
     - id: KONM
