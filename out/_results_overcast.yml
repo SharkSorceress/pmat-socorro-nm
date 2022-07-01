@@ -12,11 +12,11 @@ data:
   - 2
 analysis:
   coeff:
-    A: 14.0486
+    A: 14.0526
     B: 0.0315
-  stdev: 5.7199
+  stdev: 5.7196
   rmse:
-    mims: 13.8377
-    kelsey: 7.2694
-    yours: 5.6399
+    mims: 13.8304
+    kelsey: 7.2655
+    yours: 5.6396
 
