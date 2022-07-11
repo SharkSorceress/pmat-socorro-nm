@@ -12,12 +12,18 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-    - name: Run docker image
+    - name: Run docker image (clear sky)
       uses: docker://ghcr.io/physicsgoddess1972/pmat:latest
       with:
         dir: ${{github.workspace}}/data
         out: ${{github.workspace}}/out
         flags: "-all -u"
+    - name: Run docker image (overcast)
+      uses: docker://ghcr.io/physicsgoddess1972/pmat:latest
+      with:
+        dir: ${{github.workspace}}/data
+        out: ${{github.workspace}}/out
+        flags: "-all -u -o"        
     - name: Upload figs artifacts
       uses: actions/upload-artifact@master
       with:
