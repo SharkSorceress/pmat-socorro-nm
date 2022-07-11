@@ -5,40 +5,45 @@ on:
     paths:
       - "data/cool_data.csv"
   workflow_dispatch:
+
 jobs:
-  clear-sky:
+  pmat:
     runs-on: ubuntu-latest
-    env:
-      INPUT_DIR: ${{github.workspace}}/data/
-      INPUT_OUT: ${{github.workspace}}/out/
-      INPUT_FLAGS: "-all -u"
+    name: PMAT Docker
     steps:
-        - uses: actions/checkout@v2
-        - uses: docker://ghcr.io/physicsgoddess1972/pmat:latest
-#   overcast:
-#     runs-on: ubuntu-latest
-#     container: 
-#       image: ghcr.io/physicsgoddess1972/pmat:latest
-#       env:
-#         INPUT_DIR: ${{github.workspace}}/data/
-#         INPUT_OUT: ${{github.workspace}}/out/
-#         INPUT_FLAGS: "-all -o -u"
-#     steps:
-#       - name: Upload data artifacts
-#         uses: actions/upload-artifact@master
-#         with:
-#           name: workspace_artifacts_data
-#           path: ${{github.workspace}}/data
-#       - name: stage changed files
-#         run: git add out/* data/master_data.csv
-#       - name: Commit files
-#         run: |
-#           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-#           git config --local user.name "github-actions[bot]"
-#           git commit -m "Generate Plots" -a
-#           git pull
-#       - name: Push changes
-#         uses: ad-m/github-push-action@master
-#         with:
-#           github_token: ${{ secrets.GITHUB_TOKEN }}
-#           branch: ${{ github.ref }}
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Run docker image
+      uses: docker://ghcr.io/physicsgoddess1972/pmat:latest
+      with:
+        dir: ${{github.workspace}}/data
+        out: ${{github.workspace}}/out
+        flags: "-all -u"
+    - name: Run docker image (overcast)
+      uses: docker://ghcr.io/physicsgoddess1972/pmat:latest
+      with:
+        dir: ${{github.workspace}}/data
+        out: ${{github.workspace}}/out
+        flags: "-all -u -o"   
+    - name: Upload figs artifacts
+      uses: actions/upload-artifact@master
+      with:
+        name: workspace_artifacts_figs
+        path: ${{github.workspace}}/out
+    - name: Upload data artifacts
+      uses: actions/upload-artifact@master
+      with:
+        name: workspace_artifacts_data
+        path: ${{github.workspace}}/data
+    - name: stage changed files
+      run: git add out/* data/master_data.csv 
+    - name: Commit files
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -m "Generate Plots" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
