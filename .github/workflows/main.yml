@@ -8,13 +8,13 @@ on:
 jobs:
   clear-sky:
     runs-on: ubuntu-latest
+    env:
+      INPUT_DIR: ${{github.workspace}}/data/
+      INPUT_OUT: ${{github.workspace}}/out/
+      INPUT_FLAGS: "-all -u"
     steps:
         - uses: actions/checkout@v2
         - uses: docker://ghcr.io/physicsgoddess1972/pmat:latest
-          with:
-            dir: ${{github.workspace}}/data/
-            out: ${{github.workspace}}/out/
-            flags: "-all -u"
 #   overcast:
 #     runs-on: ubuntu-latest
 #     container: 
