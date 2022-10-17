@@ -48,7 +48,7 @@
   - tr.sz: 0.8
   - stdev.threshold: 2
   - iteration:
-      step: 5000
+      step: 10
       seed:
 - logging:
   - verbose: DEBUG
