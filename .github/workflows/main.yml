@@ -14,13 +14,13 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
     - name: Run docker image
-      uses: docker://ghcr.io/physicsgoddess1972/pmat:latest
+      uses: docker://ghcr.io/physicsgoddess1972/pmat:stable
       with:
         dir: ${{github.workspace}}/data
         out: ${{github.workspace}}/out
         flags: "-all -u"
     - name: Run docker image (overcast)
-      uses: docker://ghcr.io/physicsgoddess1972/pmat:latest
+      uses: docker://ghcr.io/physicsgoddess1972/pmat:stable
       with:
         dir: ${{github.workspace}}/data
         out: ${{github.workspace}}/out
