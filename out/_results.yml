@@ -8,11 +8,11 @@ data:
   nans: 52
 analysis:
   coeff:
-    A: 18.4805
+    A: 18.3949
     B: 0.0356
-  stdev: 3.1801
+  stdev: 3.2587
   rmse:
-    mims: 4.4074
-    kelsey: 3.1068
-    yours: 3.1563
+    mims: 4.4212
+    kelsey: 3.096
+    yours: 3.2343
 

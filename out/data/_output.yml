@@ -1,81 +1,81 @@
 - step: 1
-  seed: 1482561027
+  seed: 34667855
   analysis:
     coeff:
-      A: 14.0487
-      B: 0.0313
-    rmse: 4.603
-    rstd: 4.6683
+      A: 14.067
+      B: 0.0302
+    rmse: 6.1476
+    rstd: 6.2348
 - step: 2
-  seed: 501530709
+  seed: 1567401807
   analysis:
     coeff:
-      A: 14.1632
-      B: 0.0304
-    rmse: 6.3472
-    rstd: 6.4372
+      A: 14.3478
+      B: 0.0313
+    rmse: 4.9244
+    rstd: 4.9943
 - step: 3
-  seed: 561367988
+  seed: 347119112
   analysis:
     coeff:
-      A: 14.0443
-      B: 0.0311
-    rmse: 5.3478
-    rstd: 5.4236
+      A: 14.2041
+      B: 0.032
+    rmse: 4.8148
+    rstd: 4.8831
 - step: 4
-  seed: 1802313783
+  seed: 316820551
   analysis:
     coeff:
-      A: 14.0939
-      B: 0.0317
-    rmse: 5.6476
-    rstd: 5.7277
+      A: 13.4641
+      B: 0.0308
+    rmse: 6.5013
+    rstd: 6.5936
 - step: 5
-  seed: 1158217758
+  seed: 1536191693
   analysis:
     coeff:
-      A: 14.2534
+      A: 13.8222
       B: 0.0314
-    rmse: 6.3
-    rstd: 6.3894
+    rmse: 6.5642
+    rstd: 6.6573
 - step: 6
-  seed: 1635258342
+  seed: 1944167854
   analysis:
     coeff:
-      A: 13.6806
-      B: 0.0314
-    rmse: 6.1275
-    rstd: 6.2144
+      A: 13.9976
+      B: 0.0308
+    rmse: 5.3902
+    rstd: 5.4666
 - step: 7
-  seed: 1091016014
+  seed: 1964585867
   analysis:
     coeff:
-      A: 14.0042
-      B: 0.0313
-    rmse: 5.4524
-    rstd: 5.5297
+      A: 14.189
+      B: 0.0319
+    rmse: 5.3969
+    rstd: 5.4735
 - step: 8
-  seed: 1123696821
+  seed: 1300022119
   analysis:
     coeff:
-      A: 14.0576
-      B: 0.0313
-    rmse: 4.5872
-    rstd: 4.6523
+      A: 14.1203
+      B: 0.0312
+    rmse: 5.0282
+    rstd: 5.0995
 - step: 9
-  seed: 1781178666
+  seed: 1341345385
   analysis:
     coeff:
-      A: 14.2014
-      B: 0.0322
-    rmse: 5.9054
-    rstd: 5.9892
+      A: 13.8429
+      B: 0.0319
+    rmse: 6.2439
+    rstd: 6.3325
 - step: 10
-  seed: 1799861050
+  seed: 1856103317
   analysis:
     coeff:
-      A: 13.9012
-      B: 0.0311
-    rmse: 6.096
-    rstd: 6.1824
+      A: 14.1521
+      B: 0.0318
+    rmse: 5.8652
+    rstd: 5.9484
 
