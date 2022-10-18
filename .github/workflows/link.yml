@@ -1,7 +1,10 @@
 name: Sync Results
 on:
+  workflow_run:
+    workflows: ["PMAT Run"]
+    types: [completed]  
   workflow_dispatch:
-
+  
 jobs:
   sync:
     runs-on: ubuntu-latest
